@@ -7,7 +7,7 @@ using namespace std;
 [해결 아이디어]
 빙고판에 숫자 없애는 것까진 했는데 빙고 개수 갱신을 못하겠어요
 */
-/*
+
 int main()
 {
 	srand(time(NULL));
@@ -66,4 +66,3 @@ int main()
 
 	}
 }
-*/
