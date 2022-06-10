@@ -9,7 +9,7 @@ using namespace std;
 0번째를 조커로 두고 나머지 52개의 배열을 13으로 나눠서 몫에 따라 앞에 붙는 기호가 달라지도록 했습니다.
 나눠준 카드의 수를 증가시키고 이번에 사용한 카드를 체크하는 것도 어떻게 코드를 줄일 수 있을 것 같은데 시간이 촉박해서 일단 떠오르는 것까지만 했습니다.
 */
-
+/*
 void ReturnNum(int selectedCard)
 {
 	int cardnumber = selectedCard % 13 + 2;
@@ -89,3 +89,4 @@ int main()
 		cout << endl;
 	}
 }
+*/
